@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/Bp_LightPuzzle.uasset",
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QX/J1KW2ZWJFBQ5TO9Q8NZZ0B.uasset",
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/MainMenu/MainMenu.umap",
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/MainMenu/WBP_MAinMenu.uasset",
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/FishingLevel/MainLevel_HLODLayer_Instanced.uasset",
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/FishingLevel/MainLevel_HLODLayer_Merged.uasset",
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/__ExternalActors__/FishingLevel/MainLevel/8/P0/AZ74RCH3F7PUA3M0NZVSG1.uasset",
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/__ExternalActors__/FishingLevel/MainLevel/A/98/8O3HZGF8TNCQDVJI1BXYW2.uasset",
+				"C:/Users/adria/OneDrive/Escritorio/Adri/SegonTrimestre(any3)/MotorsDeJoc/UnrealMotors_Pesca/Content/FishingLevel/MainLevel.umap"
+			]
+		}
+	]
+}
