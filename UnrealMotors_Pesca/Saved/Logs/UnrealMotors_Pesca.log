@@ -1268,3 +1268,57 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.27-15.07.24:831][386]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
 [2024.02.27-15.07.29:893][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2024.02.27-15.07.34:473][495]LogSlate: Window 'Save Content' being destroyed
+[2024.02.27-15.08.11:519][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.27-15.08.16:884][662]LogSlate: Window 'Save Content' being destroyed
+[2024.02.27-15.08.16:981][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.27-15.08.17:159][662]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.008768 seconds
+[2024.02.27-15.08.17:166][662]LogSavePackage: Moving output files for package: /Game/FishingLevel/Widget/FishingWidget
+[2024.02.27-15.08.17:166][662]LogSavePackage: Moving '../../../../../../Users/Guillem/Desktop/UNI/MotorsDeJoc/P2_FishingGame/UnrealMotors_Pesca/Saved/FishingWidget8EAE47DC4C030BDC03B1168A70539271.tmp' to '../../../../../../Users/Guillem/Desktop/UNI/MotorsDeJoc/P2_FishingGame/UnrealMotors_Pesca/Content/FishingLevel/Widget/FishingWidget.uasset'
+[2024.02.27-15.08.17:217][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms
+[2024.02.27-15.08.17:327][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.27-15.08.17:328][662]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.02.27-15.08.17:328][662]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.27-15.08.17:328][662]LogWorldPartition: UWorldPartition::Initialize : World = MainLevel, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.27-15.08.17:329][662]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.02.27-15.08.17:329][662]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 80 ms)
+[2024.02.27-15.08.17:330][662]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FishingLevel/MainLevel.MainLevel
+[2024.02.27-15.08.17:330][662]Cmd: MAP LOAD FILE="../../../../../../Users/Guillem/Desktop/UNI/MotorsDeJoc/P2_FishingGame/UnrealMotors_Pesca/Content/FishingLevel/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.27-15.08.17:330][662]LightingResults: New page: Lighting Build
+[2024.02.27-15.08.17:330][662]LoadErrors: New page: Loading map: MainLevel.umap
+[2024.02.27-15.08.17:351][662]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.27-15.08.17:351][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.27-15.08.17:352][662]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.27-15.08.17:354][662]MapCheck: New page: Map Check
+[2024.02.27-15.08.17:354][662]LightingResults: New page: Lighting Build
+[2024.02.27-15.08.17:358][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.27-15.08.17:363][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.27-15.08.17:365][662]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.27-15.08.17:365][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.27-15.08.17:366][662]LogContentBundle: [MainLevel(Standalone)] Deleting container.
+[2024.02.27-15.08.17:370][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.27-15.08.17:374][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.27-15.08.17:379][662]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2024.02.27-15.08.17:379][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.27-15.08.17:379][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.27-15.08.17:379][662]LogAIModule: Creating AISystem for world MainLevel
+[2024.02.27-15.08.17:379][662]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.02.27-15.08.17:379][662]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.27-15.08.17:379][662]LogWorldPartition: UWorldPartition::Initialize : World = MainLevel, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.27-15.08.17:380][662]LogContentBundle: [MainLevel(Standalone)] Creating new contrainer.
+[2024.02.27-15.08.17:380][662]LogWorldPartition: Display: WorldPartition initialize took 980 us (total: 81 ms)
+[2024.02.27-15.08.17:415][662]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.27-15.08.17:422][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.27-15.08.17:426][662]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.27-15.08.17:426][662]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,271ms to complete.
+[2024.02.27-15.08.17:492][662]AssetCheck: New page: Asset Save: FishingWidget
+[2024.02.27-15.08.17:492][662]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FishingLevel/Widget/FishingWidget.FishingWidget
+[2024.02.27-15.08.26:326][899]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FishingLevel/Widget/FishingWidget.FishingWidget
+[2024.02.27-15.08.26:356][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.27-15.08.26:356][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.27-15.08.26:399][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.27-15.08.26:399][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.27-15.08.26:418][899]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.02.27-15.08.26:426][899]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.02.27-15.08.27:530][899]LogSlate: Took 0.006127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.27-15.08.27:544][899]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.02.27-15.08.27:551][899]LogSlate: Took 0.006602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
